@@ -1,0 +1,43 @@
+.container{
+    margin-top:50px;
+}
+.selection_form{
+    background-color:#dedede;
+    padding-top:10px;
+}
+.weather_box{
+	border:1px solid #ccc;
+	margin-bottom:5px;
+	padding:5px;
+	text-align:center;
+}
+.today{
+	background-color:#777;
+    color: white !important;
+}
+
+.weather_box h1{
+	margin:0;
+	font-size:1.6em;
+}
+.weather_box h4,.weather_box h3{
+	font-size:1.3em;
+}
+.blue{
+	color:#07a0b7;
+}
+.today .blue{
+    color:#fff !important;
+}
+
+.navbar-inverse{
+    background-color: #529F36;
+    border-color: #529F36;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}

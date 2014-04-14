@@ -1,0 +1,209 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast10day": 1
+  }
+		, "results": [
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "CT",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "06037.2.99999",
+		"l": "/q/zmw:06037.2.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "",
+		"country": "ES",
+		"country_iso3166":"SV",
+		"country_name":"El Salvador",
+		"zmw": "00000.3.78670",
+		"l": "/q/zmw:00000.3.78670"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "FL",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "32218.10.99999",
+		"l": "/q/zmw:32218.10.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "GA",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "31722.1.99999",
+		"l": "/q/zmw:31722.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "",
+		"country": "DL",
+		"country_iso3166":"DE",
+		"country_name":"Germany",
+		"zmw": "00000.10.10389",
+		"l": "/q/zmw:00000.10.10389"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "",
+		"country": "HO",
+		"country_iso3166":"HN",
+		"country_name":"Honduras",
+		"zmw": "00000.6.78717",
+		"l": "/q/zmw:00000.6.78717"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "IL",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "62670.2.99999",
+		"l": "/q/zmw:62670.2.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "MD",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "21811.1.99999",
+		"l": "/q/zmw:21811.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "MA",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "01503.1.99999",
+		"l": "/q/zmw:01503.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "MI",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "48002.2.99999",
+		"l": "/q/zmw:48002.2.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "NH",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "03570.1.99999",
+		"l": "/q/zmw:03570.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "NJ",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "08009.1.99999",
+		"l": "/q/zmw:08009.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "NY",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "12022.1.99999",
+		"l": "/q/zmw:12022.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "ND",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "58415.1.99999",
+		"l": "/q/zmw:58415.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "OH",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "44610.1.99999",
+		"l": "/q/zmw:44610.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "PA",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "15530.1.99999",
+		"l": "/q/zmw:15530.1.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "VT",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "05602.2.99999",
+		"l": "/q/zmw:05602.2.99999"
+		}
+		,
+		{
+		"name": "Berlin",
+		"city": "Berlin",
+		"state": "WI",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "54923.1.99999",
+		"l": "/q/zmw:54923.1.99999"
+		}
+		]
+	}
+}

@@ -1,0 +1,960 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast10day": 1
+  }
+	}
+		,
+	"forecast":{
+		"txt_forecast": {
+		"date":"9:30 PM CST",
+		"forecastday": [
+		{
+		"period":0,
+		"icon":"tstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/tstorms.gif",
+		"title":"Thursday",
+		"fcttext":"Overcast with thunderstorms, then a chance of a thunderstorm and rain in the afternoon. High of 93F with a heat index of 99F. Winds less than 5 mph. Chance of rain 50%.",
+		"fcttext_metric":"Overcast with thunderstorms, then a chance of a thunderstorm and rain in the afternoon. High of 34C with a heat index of 37C. Winds less than 5 km/h. Chance of rain 50%.",
+		"pop":"50"
+		}
+		,
+		{
+		"period":1,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Thursday Night",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm and rain in the evening, then overcast with a chance of a thunderstorm and rain. Low of 77F. Winds less than 5 mph. Chance of rain 60%.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm and rain in the evening, then overcast with a chance of a thunderstorm and rain. Low of 25C. Winds less than 5 km/h. Chance of rain 60%.",
+		"pop":"60"
+		}
+		,
+		{
+		"period":2,
+		"icon":"tstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/tstorms.gif",
+		"title":"Friday",
+		"fcttext":"Overcast with thunderstorms. High of 93F with a heat index of 102F. Winds from the WSW at 5 to 10 mph. Chance of rain 30%.",
+		"fcttext_metric":"Overcast with thunderstorms. High of 34C with a heat index of 39C. Winds from the WSW at 5 to 15 km/h. Chance of rain 30%.",
+		"pop":"30"
+		}
+		,
+		{
+		"period":3,
+		"icon":"tstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/tstorms.gif",
+		"title":"Friday Night",
+		"fcttext":"Overcast with thunderstorms in the evening, then partly cloudy with a chance of a thunderstorm and rain. Low of 82F with a heat index of 97F. Winds from the WSW at 5 to 10 mph. Chance of rain 60%.",
+		"fcttext_metric":"Overcast with thunderstorms in the evening, then partly cloudy with a chance of a thunderstorm and rain. Low of 28C with a heat index of 36C. Winds from the WSW at 10 to 15 km/h. Chance of rain 60%.",
+		"pop":"60"
+		}
+		,
+		{
+		"period":4,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Saturday",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm and rain. High of 95F with a heat index of 102F. Winds from the WSW at 5 to 10 mph. Chance of rain 60%.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm and rain. High of 35C with a heat index of 39C. Winds from the WSW at 10 to 15 km/h. Chance of rain 60%.",
+		"pop":"60"
+		}
+		,
+		{
+		"period":5,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Saturday Night",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm and rain. Low of 79F. Winds from the WNW at 5 to 10 mph.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm and rain. Low of 26C. Winds from the WNW at 10 to 15 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":6,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Sunday",
+		"fcttext":"Overcast with a chance of a thunderstorm and rain in the morning, then partly cloudy with a chance of a thunderstorm and rain. High of 95F with a heat index of 104F. Winds from the West at 5 to 10 mph. Chance of rain 50%.",
+		"fcttext_metric":"Overcast with a chance of a thunderstorm and rain in the morning, then partly cloudy with a chance of a thunderstorm and rain. High of 35C with a heat index of 40C. Winds from the West at 10 to 15 km/h. Chance of rain 50%.",
+		"pop":"50"
+		}
+		,
+		{
+		"period":7,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Sunday Night",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm and rain after midnight. Low of 79F. Winds from the WNW at 5 to 10 mph. Chance of rain 40%.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm and rain after midnight. Low of 26C. Winds from the WNW at 10 to 15 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":8,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Monday",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm and rain in the morning, then overcast with a chance of a thunderstorm and rain. High of 95F with a heat index of 106F. Winds less than 5 mph. Chance of rain 40%.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm and rain in the morning, then overcast with a chance of a thunderstorm and rain. High of 35C with a heat index of 41C. Winds less than 5 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":9,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Monday Night",
+		"fcttext":"Partly cloudy with a chance of a thunderstorm. Low of 81F with a heat index of 90F. Winds less than 5 mph. Chance of rain 50% with rainfall amounts near 0.2 in. possible.",
+		"fcttext_metric":"Partly cloudy with a chance of a thunderstorm. Low of 27C. Winds less than 5 km/h. Chance of rain 50% with rainfall amounts near 5.6 mm possible.",
+		"pop":"50"
+		}
+		,
+		{
+		"period":10,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Tuesday",
+		"fcttext":"Clear with a chance of a thunderstorm. High of 91F with a heat index of 97F. Winds less than 5 mph. Chance of rain 40%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. High of 33C with a heat index of 36C. Winds less than 5 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":11,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Tuesday Night",
+		"fcttext":"Clear with a chance of a thunderstorm. Low of 81F with a heat index of 91F. Winds less than 5 mph. Chance of rain 60%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. Low of 27C. Winds less than 5 km/h. Chance of rain 60%.",
+		"pop":"60"
+		}
+		,
+		{
+		"period":12,
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+		"title":"Wednesday",
+		"fcttext":"Clear. High of 91F with a heat index of 97F. Winds less than 5 mph.",
+		"fcttext_metric":"Clear. High of 33C with a heat index of 36C. Winds less than 5 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":13,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Wednesday Night",
+		"fcttext":"Clear with a chance of a thunderstorm. Low of 81F with a heat index of 90F. Winds less than 5 mph. Chance of rain 40%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. Low of 27C. Winds less than 5 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":14,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Thursday",
+		"fcttext":"Clear with a chance of a thunderstorm. High of 93F. Winds from the ENE at 5 to 10 mph. Chance of rain 20%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. High of 34C. Winds from the ENE at 5 to 10 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":15,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Thursday Night",
+		"fcttext":"Clear with a chance of a thunderstorm. Low of 75F. Winds less than 5 mph. Chance of rain 20%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. Low of 24C. Winds less than 5 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":16,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Friday",
+		"fcttext":"Clear with a chance of a thunderstorm. High of 91F. Winds from the ESE at 5 to 10 mph. Chance of rain 40%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. High of 33C. Winds from the ESE at 10 to 15 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":17,
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"title":"Friday Night",
+		"fcttext":"Clear with a chance of a thunderstorm. Low of 75F. Winds from the ESE at 5 to 10 mph. Chance of rain 40%.",
+		"fcttext_metric":"Clear with a chance of a thunderstorm. Low of 24C. Winds from the ESE at 5 to 10 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":18,
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+		"title":"Saturday",
+		"fcttext":"Clear. High of 91F. Winds from the ESE at 5 to 15 mph.",
+		"fcttext_metric":"Clear. High of 33C. Breezy. Winds from the ESE at 10 to 20 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":19,
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+		"title":"Saturday Night",
+		"fcttext":"Clear. Low of 73F. Winds from the ESE at 5 to 10 mph.",
+		"fcttext_metric":"Clear. Low of 23C. Winds from the ESE at 5 to 15 km/h.",
+		"pop":"0"
+		}
+		]
+		},
+		"simpleforecast": {
+		"forecastday": [
+		{"date":{
+	"epoch":"1397131200",
+	"pretty":"9:30 PM CST on April 10, 2014",
+	"day":10,
+	"month":4,
+	"year":2014,
+	"yday":99,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Thu",
+	"weekday":"Thursday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":1,
+		"high": {
+		"fahrenheit":"93",
+		"celsius":"34"
+		},
+		"low": {
+		"fahrenheit":"77",
+		"celsius":"25"
+		},
+		"conditions":"Thunderstorm",
+		"icon":"tstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/tstorms.gif",
+		"skyicon":"mostlycloudy",
+		"pop":50,
+		"qpf_allday": {
+		"in": 0.16,
+		"mm": 4.1
+		},
+		"qpf_day": {
+		"in": 0.04,
+		"mm": 1.0
+		},
+		"qpf_night": {
+		"in": 0.16,
+		"mm": 4.1
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 6,
+		"kph": 10,
+		"dir": "WNW",
+		"degrees": 289
+		},
+		"avewind": {
+		"mph": 5,
+		"kph": 8,
+		"dir": "West",
+		"degrees": 270
+		},
+		"avehumidity": 74,
+		"maxhumidity": 80,
+		"minhumidity": 57
+		}
+		,
+		{"date":{
+	"epoch":"1397217600",
+	"pretty":"9:30 PM CST on April 11, 2014",
+	"day":11,
+	"month":4,
+	"year":2014,
+	"yday":100,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Fri",
+	"weekday":"Friday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":2,
+		"high": {
+		"fahrenheit":"93",
+		"celsius":"34"
+		},
+		"low": {
+		"fahrenheit":"82",
+		"celsius":"28"
+		},
+		"conditions":"Thunderstorm",
+		"icon":"tstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/tstorms.gif",
+		"skyicon":"cloudy",
+		"pop":30,
+		"qpf_allday": {
+		"in": 0.28,
+		"mm": 7.1
+		},
+		"qpf_day": {
+		"in": 0.02,
+		"mm": 0.5
+		},
+		"qpf_night": {
+		"in": 0.16,
+		"mm": 4.1
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 7,
+		"kph": 11,
+		"dir": "WSW",
+		"degrees": 247
+		},
+		"avewind": {
+		"mph": 6,
+		"kph": 10,
+		"dir": "WSW",
+		"degrees": 248
+		},
+		"avehumidity": 73,
+		"maxhumidity": 79,
+		"minhumidity": 58
+		}
+		,
+		{"date":{
+	"epoch":"1397304000",
+	"pretty":"9:30 PM CST on April 12, 2014",
+	"day":12,
+	"month":4,
+	"year":2014,
+	"yday":101,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Sat",
+	"weekday":"Saturday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":3,
+		"high": {
+		"fahrenheit":"95",
+		"celsius":"35"
+		},
+		"low": {
+		"fahrenheit":"79",
+		"celsius":"26"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"skyicon":"partlycloudy",
+		"pop":60,
+		"qpf_allday": {
+		"in": 0.22,
+		"mm": 5.6
+		},
+		"qpf_day": {
+		"in": 0.16,
+		"mm": 4.1
+		},
+		"qpf_night": {
+		"in": 0.05,
+		"mm": 1.3
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 9,
+		"kph": 14,
+		"dir": "WNW",
+		"degrees": 294
+		},
+		"avewind": {
+		"mph": 8,
+		"kph": 13,
+		"dir": "West",
+		"degrees": 276
+		},
+		"avehumidity": 71,
+		"maxhumidity": 79,
+		"minhumidity": 58
+		}
+		,
+		{"date":{
+	"epoch":"1397390400",
+	"pretty":"9:30 PM CST on April 13, 2014",
+	"day":13,
+	"month":4,
+	"year":2014,
+	"yday":102,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Sun",
+	"weekday":"Sunday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":4,
+		"high": {
+		"fahrenheit":"95",
+		"celsius":"35"
+		},
+		"low": {
+		"fahrenheit":"79",
+		"celsius":"26"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"skyicon":"partlycloudy",
+		"pop":50,
+		"qpf_allday": {
+		"in": 0.09,
+		"mm": 2.3
+		},
+		"qpf_day": {
+		"in": 0.08,
+		"mm": 2.0
+		},
+		"qpf_night": {
+		"in": 0.02,
+		"mm": 0.5
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 8,
+		"kph": 13,
+		"dir": "WNW",
+		"degrees": 303
+		},
+		"avewind": {
+		"mph": 6,
+		"kph": 10,
+		"dir": "WNW",
+		"degrees": 283
+		},
+		"avehumidity": 68,
+		"maxhumidity": 79,
+		"minhumidity": 54
+		}
+		,
+		{"date":{
+	"epoch":"1397476800",
+	"pretty":"9:30 PM CST on April 14, 2014",
+	"day":14,
+	"month":4,
+	"year":2014,
+	"yday":103,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Mon",
+	"weekday":"Monday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":5,
+		"high": {
+		"fahrenheit":"95",
+		"celsius":"35"
+		},
+		"low": {
+		"fahrenheit":"81",
+		"celsius":"27"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"skyicon":"partlycloudy",
+		"pop":40,
+		"qpf_allday": {
+		"in": 0.20,
+		"mm": 5.1
+		},
+		"qpf_day": {
+		"in": 0.05,
+		"mm": 1.3
+		},
+		"qpf_night": {
+		"in": 0.22,
+		"mm": 5.6
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 4,
+		"kph": 6,
+		"dir": "WNW",
+		"degrees": 283
+		},
+		"avewind": {
+		"mph": 3,
+		"kph": 5,
+		"dir": "WNW",
+		"degrees": 291
+		},
+		"avehumidity": 68,
+		"maxhumidity": 76,
+		"minhumidity": 52
+		}
+		,
+		{"date":{
+	"epoch":"1397563200",
+	"pretty":"9:30 PM CST on April 15, 2014",
+	"day":15,
+	"month":4,
+	"year":2014,
+	"yday":104,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Tue",
+	"weekday":"Tuesday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":6,
+		"high": {
+		"fahrenheit":"91",
+		"celsius":"33"
+		},
+		"low": {
+		"fahrenheit":"81",
+		"celsius":"27"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"skyicon":"mostlysunny",
+		"pop":40,
+		"qpf_allday": {
+		"in": 0.19,
+		"mm": 4.8
+		},
+		"qpf_day": {
+		"in": 0.05,
+		"mm": 1.3
+		},
+		"qpf_night": {
+		"in": 0.13,
+		"mm": 3.3
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 3,
+		"kph": 5,
+		"dir": "East",
+		"degrees": 97
+		},
+		"avewind": {
+		"mph": 2,
+		"kph": 3,
+		"dir": "East",
+		"degrees": 81
+		},
+		"avehumidity": 68,
+		"maxhumidity": 76,
+		"minhumidity": 58
+		}
+		,
+		{"date":{
+	"epoch":"1397649600",
+	"pretty":"9:30 PM CST on April 16, 2014",
+	"day":16,
+	"month":4,
+	"year":2014,
+	"yday":105,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":7,
+		"high": {
+		"fahrenheit":"91",
+		"celsius":"33"
+		},
+		"low": {
+		"fahrenheit":"81",
+		"celsius":"27"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+		"skyicon":"mostlysunny",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.11,
+		"mm": 2.8
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0.0
+		},
+		"qpf_night": {
+		"in": 0.07,
+		"mm": 1.8
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 4,
+		"kph": 6,
+		"dir": "NE",
+		"degrees": 55
+		},
+		"avewind": {
+		"mph": 2,
+		"kph": 3,
+		"dir": "NE",
+		"degrees": 38
+		},
+		"avehumidity": 69,
+		"maxhumidity": 73,
+		"minhumidity": 60
+		}
+		,
+		{"date":{
+	"epoch":"1397736000",
+	"pretty":"9:30 PM CST on April 17, 2014",
+	"day":17,
+	"month":4,
+	"year":2014,
+	"yday":106,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Thu",
+	"weekday":"Thursday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":8,
+		"high": {
+		"fahrenheit":"93",
+		"celsius":"34"
+		},
+		"low": {
+		"fahrenheit":"75",
+		"celsius":"24"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"mostlysunny",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.05,
+		"mm": 1.3
+		},
+		"qpf_day": {
+		"in": 0.01,
+		"mm": 0.3
+		},
+		"qpf_night": {
+		"in": 0.02,
+		"mm": 0.5
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 6,
+		"kph": 10,
+		"dir": "ENE",
+		"degrees": 70
+		},
+		"avewind": {
+		"mph": 3,
+		"kph": 5,
+		"dir": "ENE",
+		"degrees": 70
+		},
+		"avehumidity": 68,
+		"maxhumidity": 74,
+		"minhumidity": 56
+		}
+		,
+		{"date":{
+	"epoch":"1397822400",
+	"pretty":"9:30 PM CST on April 18, 2014",
+	"day":18,
+	"month":4,
+	"year":2014,
+	"yday":107,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Fri",
+	"weekday":"Friday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":9,
+		"high": {
+		"fahrenheit":"91",
+		"celsius":"33"
+		},
+		"low": {
+		"fahrenheit":"75",
+		"celsius":"24"
+		},
+		"conditions":"Chance of a Thunderstorm",
+		"icon":"chancetstorms",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+		"skyicon":"sunny",
+		"pop":40,
+		"qpf_allday": {
+		"in": 0.05,
+		"mm": 1.3
+		},
+		"qpf_day": {
+		"in": 0.02,
+		"mm": 0.5
+		},
+		"qpf_night": {
+		"in": 0.04,
+		"mm": 1.0
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 9,
+		"kph": 14,
+		"dir": "ESE",
+		"degrees": 115
+		},
+		"avewind": {
+		"mph": 5,
+		"kph": 8,
+		"dir": "ESE",
+		"degrees": 102
+		},
+		"avehumidity": 67,
+		"maxhumidity": 80,
+		"minhumidity": 57
+		}
+		,
+		{"date":{
+	"epoch":"1397908800",
+	"pretty":"9:30 PM CST on April 19, 2014",
+	"day":19,
+	"month":4,
+	"year":2014,
+	"yday":108,
+	"hour":21,
+	"min":"30",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Sat",
+	"weekday":"Saturday",
+	"ampm":"PM",
+	"tz_short":"CST",
+	"tz_long":"Australia/Darwin"
+},
+		"period":10,
+		"high": {
+		"fahrenheit":"91",
+		"celsius":"33"
+		},
+		"low": {
+		"fahrenheit":"73",
+		"celsius":"23"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+		"skyicon":"mostlysunny",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.02,
+		"mm": 0.5
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0.0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0.0
+		},
+		"snow_allday": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_day": {
+		"in": 0,
+		"cm": 0
+		},
+		"snow_night": {
+		"in": 0,
+		"cm": 0
+		},
+		"maxwind": {
+		"mph": 10,
+		"kph": 16,
+		"dir": "ESE",
+		"degrees": 122
+		},
+		"avewind": {
+		"mph": 6,
+		"kph": 10,
+		"dir": "ESE",
+		"degrees": 114
+		},
+		"avehumidity": 65,
+		"maxhumidity": 80,
+		"minhumidity": 53
+		}
+		]
+		}
+	}
+}
