@@ -1,17 +1,7 @@
 <?php
 include 'config.php';
+include 'WebFileHandler.php';
 
-function download($filename,$apiUrl,$renderOnly=false){
-	$contents = '';
-	header('Content-type: application/json');
-	if($renderOnly){
-		$contents = file_get_contents($filename);
-	}else{
-		$contents = file_get_contents($apiUrl);
-		file_put_contents($filename,$contents);
-	}
-	echo $contents;
-}
 $folder = "json";
 
 $country = (isset($_GET['co']))?$_GET['co']:"AU";
@@ -31,10 +21,10 @@ if(file_exists($file_name)){
 	$interval = $lastModified->diff($today);
 	$days = $interval->format('%a');
 	if(intval($days)>1){
-		download($file_name,$apiUrl);
+		WebFileHandler::download($file_name,$apiUrl);
 	}else{
-		download($file_name,$apiUrl,true);
+		WebFileHandler::download($file_name,$apiUrl,true);
 	}
 }else{
-	download($file_name,$apiUrl);
+	WebFileHandler::download($file_name,$apiUrl);
 }
