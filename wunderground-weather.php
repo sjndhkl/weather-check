@@ -11,7 +11,6 @@ function download($filename,$apiUrl,$renderOnly=false){
 		file_put_contents($filename,$contents);
 	}
 	echo $contents;
-	exit;
 }
 $folder = "json";
 
