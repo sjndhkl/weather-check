@@ -5,7 +5,15 @@
 */
 class WebFileHandler
 {
-  static function download()
-  {
+  public static function download($filename,$apiUrl,$renderOnly=false) {
+  	$contents = '';
+  	header('Content-type: application/json');
+  	if($renderOnly) {
+  		$contents = file_get_contents($filename);
+  	} else {
+  		$contents = file_get_contents($apiUrl);
+  		file_put_contents($filename, $contents);
+  	}
+  	echo $contents;
   }
 }
